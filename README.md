@@ -18,7 +18,7 @@ I’m deeply passionate about **AI integration** — bringing intelligent featur
 - 🤖 **AI Integration:** Adding AI-powered features to modern applications.
 - 🧼 **Clean Code:** Readable, maintainable and well-structured code.
 - 💬 **Ask me about:** React, Node.js, AI integration, clean code, or working effectively with global teams.
-- 📍 **Location:** Maldah, West Bengal, India
+- 📍 **Location:** kolkata, West Bengal, India
 - ✉️ **Contact:** [pakhidas949@gmail.com](mailto:pakhidas949@gmail.com)
 - 🐙 **GitHub:** [@pakhidas949-lab](https://github.com/pakhidas949-lab)
 
